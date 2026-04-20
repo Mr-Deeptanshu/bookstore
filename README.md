@@ -57,14 +57,6 @@ bookstore
 
 ---
 
-## 🔮 Future Improvements
-
-- Update/Delete APIs
-- MySQL integration
-- Frontend UI
-- Authentication system
-
----
 
 ## 👨‍💻 Author
 
