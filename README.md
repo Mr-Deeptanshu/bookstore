@@ -24,13 +24,16 @@ A simple Spring Boot REST API for managing bookstore data using H2 database.
 ---
 
 ## 📂 Project Structure
+
+```
 bookstore
-├── src
-│ ├── main
-│ │ ├── java/com/example/bookstore
-│ │ └── resources
-│ └── test
-├── pom.xml
+ ├── src
+ │   ├── main
+ │   │   ├── java/com/example/bookstore
+ │   │   └── resources
+ │   └── test
+ ├── pom.xml
+```
 
 
 ---
